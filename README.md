@@ -38,7 +38,7 @@ The study proposes an **Enhanced MLP-based framework (Vanilla+)** and evaluates 
 
 ---
 
-# ⚙️ Pipeline Overview (UNCHANGED FROM ORIGINAL FRAMEWORK)
+# ⚙️ Pipeline Overview 
 
 ```
 01 → UniProt dataset analysis
