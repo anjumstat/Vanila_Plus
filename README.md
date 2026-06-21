@@ -155,21 +155,6 @@ This study focuses on:
 ✔ Strong baseline benchmarking study  
 ✔ Publication-ready figures (300 DPI TIFF/PNG)  
 
----
-
-# 📌 Citation
-
-If you use this work:
-
-```
-Vanilla+: Enhanced MLP Framework for Fish Enzyme Classification
-Authors: [Your Name]
-``` id="t8n3qx"
-
----
-
-# 📬 Contact
-
 - Author: [Your Name]
 - Email: [Add email]
 ```
