@@ -285,7 +285,7 @@ Citation
 
 If you use this framework, please cite:
 
-Author(s).
+Author(s). Anjum Shahzad, Sheeraz Akram, Tahir Mehmood
 
 Vanilla+: A Species-Aware Deep Learning Framework 
 for Protein Embedding-Based Enzyme Classification 
@@ -300,7 +300,7 @@ Author:
 Anjum Shahzad
 
 Email:
-your.email@example.com
+anjumstat@yahoo.com
 
 License
 
@@ -309,12 +309,4 @@ This project is released under the MIT License.
 
 ---
 
-One recommendation before uploading to GitHub: **rename the repository** from `VanillaPlus` to something more discoverable, for example:
 
-**`VanillaPlus-Fish-Enzyme-Classification`**
-
-or
-
-**`SpeciesAware-VanillaPlus-Bioinformatics`**
-
-because reviewers and future researchers searching GitHub will find it more easily.
